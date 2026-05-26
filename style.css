@@ -189,7 +189,7 @@ main {
     padding-block: 0.5rem;
 }
 
-.conta input::-webkit-inner-spin-button, 
+    .conta input::-webkit-inner-spin-button, 
         .pessoas input::-webkit-inner-spin-button,
         .gorjeta #outra::-webkit-inner-spin-button{
         display: none;
@@ -221,11 +221,11 @@ main {
         main section {
             width: 100%;
         }
-
+ 
         .gorjeta div{
             grid-template-columns: 1fr 1fr 1fr;
         }
-     
+
         .resultados {
             display: flex;
             flex-direction: column;
